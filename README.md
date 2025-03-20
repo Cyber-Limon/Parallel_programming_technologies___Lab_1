@@ -1,7 +1,7 @@
 # Технологии параллельного программирования | Лабораторная работа 1 | Вариант 25
 
 На примере задачи сложения суммы ряда научиться использовать оптимизационные ключи компиляторов в операционных системах Windows (и Linux), а также инструмент для профилирования программ "Intel Advisor". Используемые компиляторы:
-- Microsoft Visual C/C++,
-- Intel Compiler Classic C/C++,
-- Intel Clang/LLVM C/C++,
-- GNU C/C++
+- "Microsoft Visual C/C++",
+- "Intel Compiler Classic C/C++",
+- "Intel Clang/LLVM C/C++",
+- "GNU C/C++".
